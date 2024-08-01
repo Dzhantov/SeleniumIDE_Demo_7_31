@@ -1,11 +1,11 @@
 name: Selenium Ide CI
 
 on: 
-  push:
-     branches:
+	push:
+	branches:
 	- main
-  pull_request:
-     branches:
+	pull_request:
+	branches:
 	- main
 
 jobs:
